@@ -1,4 +1,6 @@
 # ComfyUI テキストファイルローダー（カスタムノード）
+[English](./README.md) / [日本語](./README-ja.md)
+
 ComfyUI の input / output ディレクトリ内にあるテキスト系ファイルをスキャンし、ドロップダウンから1つ選んで、その内容を STRING として返す ComfyUI カスタムノードです。
 
 ## 想定ユースケース
