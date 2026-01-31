@@ -1,5 +1,7 @@
 # ComfyUI Text File Loader (Custom Node)
 
+[English](./README.md) / [日本語](./README-ja.md)
+
 A ComfyUI custom node that scans text-like files inside ComfyUI’s input and output directories, lets you pick one from a dropdown, and returns its contents as a STRING.
 
 ## Use cases
