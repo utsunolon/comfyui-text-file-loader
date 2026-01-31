@@ -4,6 +4,9 @@
 
 A ComfyUI custom node that scans text-like files inside ComfyUI’s input and output directories, lets you pick one from a dropdown, and returns its contents as a STRING.
 
+![Text File Loader Node](./image/image.png)
+
+
 ## Use cases
 - Keep prompts/configs as external files and load them into workflows
 - Quickly switch between multiple text snippets (prompt variants, JSON, YAML, notes)
